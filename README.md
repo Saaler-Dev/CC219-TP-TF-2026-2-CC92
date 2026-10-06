@@ -27,12 +27,19 @@ Diseñar, implementar y evaluar un pipeline integral de Procesamiento de Lenguaj
 
 CC219-TP-TF-2026-2-CC92/
 ├── data/
+
 │   ├── multilingual_mobile_app_reviews_2025.csv  # Dataset original
+
 │   └── reviews_cleaned_nlp.csv                   # Dataset preprocesado tras limpieza NLP
+
 ├── code/
+
 │   └── Hito1_EDA_Normalizacion.ipynb             # Notebook reproducible con EDA y Pipeline NLP
+
 ├── LICENSE
+
 └── README.md
+
 
 ---
 
