@@ -25,7 +25,6 @@ Diseñar, implementar y evaluar un pipeline integral de Procesamiento de Lenguaj
 
 ---
 
-### 3. Estructura del Repositorio
 CC219-TP-TF-2026-2-CC92/
 ├── data/
 │   ├── multilingual_mobile_app_reviews_2025.csv  # Dataset original
